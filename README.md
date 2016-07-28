@@ -3,12 +3,8 @@ Rick Huang Space
 --- New Blog
 
 
-Linkto ... [my old blog][]
+Linkto ... [my old blog][id]
 
-An [example][id]. Then, anywhere
-else in the doc, define the link:
 
-  [id]: An [example][id]. Then, anywhere
-else in the doc, define the link:
 
-  [id]: http://example.com/  "Title"  "Title"
+  [id]: https://github.com/rick-liyue-huang/RichCode-old-Blog.git  "Title"
