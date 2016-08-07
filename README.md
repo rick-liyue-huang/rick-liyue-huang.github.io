@@ -17,7 +17,7 @@ Rick Huang Space
    [id1]: https://github.com/rick-liyue-huang/RichCode-old-Blog.git
    [id2]: https://github.com/rick-liyue-huang/Frameworks.git
    [id3]: https://github.com/rick-liyue-huang/Ajax-something.git
-   [id4]: https://rick-liyue-huang.gitbooks.io/something-about-ajax-modularisation-and-nodejs/content/chapter1.html
+   [id4]: https://github.com/rick-liyue-huang/my-gitBook.git
    
    
    
